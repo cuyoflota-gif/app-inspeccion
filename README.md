@@ -1,13 +1,3 @@
-# App Inspección Web
+# App Inspección
 
-Proyecto React listo para publicar en Vercel.
-
-## Uso local
-npm install
-npm run dev
-
-## Publicar en Vercel
-1. Sube esta carpeta a GitHub.
-2. Entra a vercel.com.
-3. Importa el repositorio.
-4. Deploy.
+Aplicación de inspección de camiones y encargado OPL con PDF y XLSX.
